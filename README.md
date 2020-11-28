@@ -9,7 +9,10 @@ Payless requires [Node.js](https://nodejs.org/) v4+ to run and some dependencies
 ```sh
 $ cd payless
 $ npm install puppeteer
-$ npm discord-webhook-node
+$ npm install discord-webhook-node
+$ npm install fs
+$ npm install process
+$ npm install stream
 ```
 
 
