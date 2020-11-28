@@ -13,7 +13,7 @@ $ npm discord-webhook-node
 ```
 
 
-### How to make it work
+### How to make it works
 On the same folder of main.js create 2 json file.
 ```
 $ touch list.json
