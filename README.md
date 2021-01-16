@@ -3,6 +3,7 @@
 Payless is an instrument that will help you save money! It will alert you on a discord server when a product on amazon is on sale. 
 
 ### Installation
+
 Open terminal and run 
 ```sh
 $ git clone https://github.com/matBorg/payless
