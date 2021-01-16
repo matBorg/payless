@@ -1,2 +1,4 @@
-*.json
+credential.json
+package-lock.json
+list.json
 node_modules

@@ -92,7 +92,6 @@ async function getImage(url){
     const src = await el.getProperty('src')
     const srcTxt = await src.jsonValue()
     browser.close()
-    console.log(srcTxt)
     return srcTxt
 }
 
